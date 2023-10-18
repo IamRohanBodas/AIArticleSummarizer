@@ -1,3 +1,5 @@
+Deployed Model : https://rapidaiarticlesummarizer.netlify.app/
+
 Repository Name: AI Summarizer - RapidAPI Model & React
 
 Description:
